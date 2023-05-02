@@ -8,15 +8,16 @@
     "number_of_recipes": 5,
     "likes": "900",
     "description": "Abul hasan are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": [
+    "recipes":
    {
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
-"rating":"4.5"
+"rating":"4.5",
+"total_View":"480"
 }
-]
+
   },
   {
     "id": "2",
@@ -26,15 +27,16 @@
     "number_of_recipes": 5,
     "likes": "200",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": [
+    "recipes": 
    {
 "_id":"r2",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
-"rating":"4.5"
+"rating":"4.5",
+"total_View":"480"
 }
-]
+
   },
   {
     "id": "3",
@@ -44,15 +46,16 @@
     "number_of_recipes": 10,
     "likes": "800",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": [
+    "recipes": 
    {
 "_id":"r3",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
-"rating":"4.5"
+"rating":"4.5",
+"total_View":"480"
 }
-    ]
+    
   },
   {
     "id": "4",
@@ -62,15 +65,15 @@
     "number_of_recipes": 55,
     "likes": "700",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": [
+    "recipes": 
    {
 "_id":"r4",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
-"rating":"4.5"
+"rating":"4.5",
+"total_View":"480"
 }
-    ]
   },
   {
     "id": "5",
@@ -80,15 +83,16 @@
     "number_of_recipes": 34,
     "likes": "500",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": [
+    "recipes": 
    {
 "_id":"r5",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
-"rating":"4.5"
+"rating":"4.5",
+"total_View":"480"
 }
-    ]
+    
   },
   {
     "id": "6",
@@ -98,14 +102,15 @@
     "number_of_recipes": 44,
     "likes": "300",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-     "recipes": [
+     "recipes": 
    {
 "_id":"r6",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
-"rating":"4.5"
+"rating":"4.5",
+"total_View":"480"
 }
-    ]
+    
   }
 ]
