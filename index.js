@@ -15,7 +15,7 @@ app.get('/chefdata',(req,res)=>{
 res.send(chefiesData)
 })
 
-app.get('chefdata/:id',(req,res)=>{
+app.get('/chefdatas/:id',(req,res)=>{
 const id = parseInt(req.params.id);
 console.log(id)
 const selectShef =chefiesData.find(c=>parent(c.id )=== id)
