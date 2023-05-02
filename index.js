@@ -15,7 +15,7 @@ app.get('/',(req,res)=>{
 res.send(chefiesData)
 })
 
-app.get('/chefiesData/:id',(req,res)=>{
+app.get('/:id',(req,res)=>{
 const id = req.params.id;
 console.log(id)
 const selectShef =chefiesData.find(c=>c.id === id)
