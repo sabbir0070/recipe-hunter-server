@@ -16,9 +16,9 @@ res.send(chefiesData)
 })
 
 app.get('/chefdatas/:id',(req,res)=>{
-const id = parseInt(req.params.id);
+const id =req.params.id;
 console.log(id)
-const selectShef =chefiesData.find(c=>parseInt(c.id )=== id)
+const selectShef =chefiesData.find(c=>c.id == id)
 res.send(selectShef) 
 })
 

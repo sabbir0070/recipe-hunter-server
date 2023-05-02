@@ -12,7 +12,7 @@
    {
 "_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
+"Picture":"https://i.postimg.cc/MpfVhpd6/image1webp.webp",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
@@ -22,7 +22,7 @@
   {
     "id": "2",
     "chef_name": "Ariful Islam",
-    "chef_picture": "https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png",
+    "chef_picture": "https://i.postimg.cc/JnX1LSSB/shef2.jpg",
     "experience": "4 years",
     "number_of_recipes": 5,
     "likes": "200",
@@ -31,7 +31,7 @@
    {
 "_id":"r2",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
+"Picture":"https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png ",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
@@ -41,7 +41,7 @@
   {
     "id": "3",
     "chef_name": "Ashraful alam",
-    "chef_picture": "https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png",
+    "chef_picture": "https://i.postimg.cc/yd0z5cSm/shef4.jpg",
     "experience": " 6 years",
     "number_of_recipes": 10,
     "likes": "800",
@@ -60,7 +60,7 @@
   {
     "id": "4",
     "chef_name": "Omor faruk",
-    "chef_picture": "https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png",
+    "chef_picture": "https://i.postimg.cc/qRcvK9QH/img3.jpg",
     "experience": "3 years",
     "number_of_recipes": 55,
     "likes": "700",
@@ -97,7 +97,7 @@
   {
     "id": "6",
     "chef_name": "Jamal ahmed",
-    "chef_picture": "https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png",
+    "chef_picture": "https://i.postimg.cc/c4xN9K13/shef5.jpg",
     "experience": " 5 years",
     "number_of_recipes": 44,
     "likes": "300",
