@@ -7,11 +7,11 @@ const chefiesData = require('./data/chefiesData.json')
 
 app.use(cors());
 
-app.get('/',(req,res)=>{
-res.send('chef is running')
-})
+// app.get('/',(req,res)=>{
+// res.send('chef is running')
+// })
 
-app.get('/chefiesData',(req,res)=>{
+app.get('/',(req,res)=>{
 res.send(chefiesData)
 })
 
