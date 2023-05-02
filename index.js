@@ -11,7 +11,7 @@ app.get('/',(req,res)=>{
 res.send('chef is running')
 })
 
-app.get('/chefdata',(req,res)=>{
+app.get('/chefdatas',(req,res)=>{
 res.send(chefiesData)
 })
 
