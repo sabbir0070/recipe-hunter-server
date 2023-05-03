@@ -13,8 +13,14 @@
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -22,17 +28,29 @@
 "_id":"r2",
 "name":"Dry-hat Rost",
 "Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
 {
 "_id":"r3",
 "name":"Easter Roast",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making-details":" Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -53,8 +71,14 @@
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -62,17 +86,29 @@
 "_id":"r2",
 "name":"Dry-hat Rost",
 "Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
 {
 "_id":"r3",
 "name":"Easter Roast",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -94,8 +130,14 @@
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -103,17 +145,29 @@
 "_id":"r2",
 "name":"Dry-hat Rost",
 "Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
 {
 "_id":"r3",
 "name":"Easter Roast",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -135,8 +189,14 @@
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -144,17 +204,29 @@
 "_id":"r2",
 "name":"Dry-hat Rost",
 "Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
 {
 "_id":"r3",
 "name":"Easter Roast",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -175,8 +247,14 @@
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -184,17 +262,29 @@
 "_id":"r2",
 "name":"Dry-hat Rost",
 "Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
 {
 "_id":"r3",
 "name":"Easter Roast",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -215,8 +305,14 @@
 "_id":"r1",
 "name":"chicken Rost",
 "Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -224,17 +320,29 @@
 "_id":"r2",
 "name":"Dry-hat Rost",
 "Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
 {
 "_id":"r3",
 "name":"Easter Roast",
-"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"ingradiants":{
+"oil":"4 tablespoons (59 mL) olive oi",
+"onions":"2 onions, peeled and chopped",
+"salt":" Fresh salt (200gm)",
+"poteto":"2 Yukon gold potatoes, peeled and chopped",
+"mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
+},
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
