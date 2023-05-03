@@ -2,115 +2,243 @@
   {
     "id": "1",
     "chef_name": "Abul Hasan",
- "specialty":"Bangladeshi",
-    "chef_picture": "https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png",
+    "specialty":"Bangladeshi",
+    "chef_picture": "https://i.postimg.cc/mDn3hHPz/Chef-Neel-Soni.png",
     "experience": "3 years",
     "number_of_recipes": 5,
     "likes": "900",
     "description": "Abul hasan are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes":
-   {
+    "recipes": [
+{
 "_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/MpfVhpd6/image1webp.webp",
+"Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
+},
+{
+"_id":"r2",
+"name":"Dry-hat Rost",
+"Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"4.5",
+"total_View":"770"
+},
+{
+"_id":"r3",
+"name":"Easter Roast",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"3.5",
+"total_View":"780"
 }
+
+]
 
   },
   {
     "id": "2",
     "chef_name": "Ariful Islam",
-    "chef_picture": "https://i.postimg.cc/JnX1LSSB/shef2.jpg",
+    "chef_picture": "https://i.postimg.cc/KjyPny5x/shef2.jpg",
     "experience": "4 years",
     "number_of_recipes": 5,
     "likes": "200",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": 
-   {
-"_id":"r2",
+ "recipes": [
+{
+"_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png ",
+"Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
+},
+{
+"_id":"r2",
+"name":"Dry-hat Rost",
+"Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"4.5",
+"total_View":"770"
+},
+{
+"_id":"r3",
+"name":"Easter Roast",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"3.5",
+"total_View":"780"
 }
+
+]
+
 
   },
   {
     "id": "3",
     "chef_name": "Ashraful alam",
-    "chef_picture": "https://i.postimg.cc/yd0z5cSm/shef4.jpg",
+    "chef_picture": "https://i.postimg.cc/Hxb5Wh1K/shef4.jpg",
     "experience": " 6 years",
     "number_of_recipes": 10,
     "likes": "800",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": 
-   {
-"_id":"r3",
+     "recipes": [
+{
+"_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
+"Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
+},
+{
+"_id":"r2",
+"name":"Dry-hat Rost",
+"Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"4.5",
+"total_View":"770"
+},
+{
+"_id":"r3",
+"name":"Easter Roast",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"3.5",
+"total_View":"780"
 }
+
+]
+
     
   },
   {
     "id": "4",
     "chef_name": "Omor faruk",
-    "chef_picture": "https://i.postimg.cc/qRcvK9QH/img3.jpg",
+    "chef_picture": "https://i.postimg.cc/c4tWKybr/shef5.jpg",
     "experience": "3 years",
     "number_of_recipes": 55,
     "likes": "700",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": 
-   {
-"_id":"r4",
+     "recipes": [
+{
+"_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
+"Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
+},
+{
+"_id":"r2",
+"name":"Dry-hat Rost",
+"Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"4.5",
+"total_View":"770"
+},
+{
+"_id":"r3",
+"name":"Easter Roast",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"3.5",
+"total_View":"780"
 }
+
+]
+
   },
   {
     "id": "5",
     "chef_name": "Rahman ali",
-    "chef_picture": "https://i.postimg.cc/SRftzDcT/Chef-Neel-Soni.png",
+    "chef_picture": "https://i.postimg.cc/mgRTKpmk/img3.jpg",
     "experience": "3 years",
     "number_of_recipes": 34,
     "likes": "500",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-    "recipes": 
-   {
-"_id":"r5",
+     "recipes": [
+{
+"_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
+"Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
+},
+{
+"_id":"r2",
+"name":"Dry-hat Rost",
+"Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"4.5",
+"total_View":"770"
+},
+{
+"_id":"r3",
+"name":"Easter Roast",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"3.5",
+"total_View":"780"
 }
-    
+
+]
+  
   },
   {
     "id": "6",
     "chef_name": "Jamal ahmed",
-    "chef_picture": "https://i.postimg.cc/c4xN9K13/shef5.jpg",
+    "chef_picture": "https://i.postimg.cc/cJRw0zSz/images.jpg",
     "experience": " 5 years",
     "number_of_recipes": 44,
     "likes": "300",
     "description": "While most chefs are used to working in a fully staffed kitchen, when you work as a personal chef, you become a one-man show. It can be challenging to shift from a team driven focus to solely accountable, but some enjoy the challenge. Below are some of the average and expected responsibilities as a personal chef, but these may differ based on your employer",
-     "recipes": 
-   {
-"_id":"r6",
+      "recipes": [
+{
+"_id":"r1",
 "name":"chicken Rost",
-"Picture":"https://i.postimg.cc/0yT1pXLZ/chickenjpg.jpg",
+"Picture":"https://i.postimg.cc/QxHP6QQP/download.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
 "making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
+},
+{
+"_id":"r2",
+"name":"Dry-hat Rost",
+"Picture":"https://i.postimg.cc/cLfFjXrD/download-1.jpg",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"4.5",
+"total_View":"770"
+},
+{
+"_id":"r3",
+"name":"Easter Roast",
+"ingradiants":"chicken,oil,salt,mosla,poteto,sos",
+"Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
+"making-details":"Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"rating":"3.5",
+"total_View":"780"
 }
-    
+
+]    
   }
 ]
