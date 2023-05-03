@@ -35,7 +35,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
@@ -50,7 +50,7 @@
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":" Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":" Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -61,6 +61,7 @@
   {
     "id": "2",
     "chef_name": "Ariful Islam",
+     "specialty":"Bangladeshi",
     "chef_picture": "https://i.postimg.cc/KjyPny5x/shef2.jpg",
     "experience": "4 years",
     "number_of_recipes": 5,
@@ -78,7 +79,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -93,7 +94,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
@@ -108,7 +109,7 @@
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -120,6 +121,7 @@
   {
     "id": "3",
     "chef_name": "Ashraful alam",
+     "specialty":"Bangladeshi",
     "chef_picture": "https://i.postimg.cc/Hxb5Wh1K/shef4.jpg",
     "experience": " 6 years",
     "number_of_recipes": 10,
@@ -137,7 +139,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -152,7 +154,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
@@ -167,7 +169,7 @@
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -179,6 +181,7 @@
   {
     "id": "4",
     "chef_name": "Omor faruk",
+     "specialty":"Bangladeshi",
     "chef_picture": "https://i.postimg.cc/c4tWKybr/shef5.jpg",
     "experience": "3 years",
     "number_of_recipes": 55,
@@ -196,7 +199,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -211,7 +214,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
@@ -226,7 +229,7 @@
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -237,6 +240,7 @@
   {
     "id": "5",
     "chef_name": "Rahman ali",
+     "specialty":"Bangladeshi",
     "chef_picture": "https://i.postimg.cc/mgRTKpmk/img3.jpg",
     "experience": "3 years",
     "number_of_recipes": 34,
@@ -254,7 +258,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -269,7 +273,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
@@ -284,7 +288,7 @@
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
@@ -295,6 +299,7 @@
   {
     "id": "6",
     "chef_name": "Jamal ahmed",
+     "specialty":"Bangladeshi",
     "chef_picture": "https://i.postimg.cc/cJRw0zSz/images.jpg",
     "experience": " 5 years",
     "number_of_recipes": 44,
@@ -312,7 +317,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"480"
 },
@@ -327,7 +332,7 @@
 "poteto":"2 Yukon gold potatoes, peeled and chopped",
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"4.5",
 "total_View":"770"
 },
@@ -342,7 +347,7 @@
 "mix":"1  fl oz (30 mL) dry onion soup seasoning mix"
 },
 "Picture":"https://i.postimg.cc/3Rf1pqcw/American-pot-roast.jpg",
-"making-details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
+"making_details":"Place the chuck roast on a flat surface and season the top liberally with an even mixture of salt, pepper, and paprika. Flip the chuck roast over and season the bottom side as well, leaving the sides bare Heat oil in a and fry  onions till brown. add prawns,green chili,salt,and turmeric and cooks for 5-7 minites",
 "rating":"3.5",
 "total_View":"780"
 }
